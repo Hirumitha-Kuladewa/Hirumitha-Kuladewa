@@ -7,7 +7,7 @@
 <a href="https://x.com/Hirumitha_K?t=69uUKH7wRDLTmNpVvkuTJw&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/hirumitha-kuladewa-85bb752a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/hirumitha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/share/pmf76hxtcvadppLB/" target="_blank">
