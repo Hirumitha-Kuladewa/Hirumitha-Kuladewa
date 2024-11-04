@@ -1,126 +1,116 @@
-## Hey 👋, I'm Hirumitha Kuladewa  
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF6F91&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hirumitha+Kuladewa!;Full+Stack+Developer;Mobile+Developer;Tech+Enthusiast" />
+</h1>
 
-<a href="https://github.com/Hirumitha-Kuladewa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hirumitha/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/share/pmf76hxtcvadppLB/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/x_hiru23/profilecard/?igsh=Zmc4Y253MGFkdXNn" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+<h3 align="center">A versatile developer passionate about crafting digital experiences across platforms 🚀</h3>
 
-### Glad to see you here!  
-I am currently pursuing a Diploma in Software Engineering, and I'm passionate about developing innovative and user-friendly solutions. My key interests and skills include:
+<p align="center">  
+  <a href="https://github.com/Hirumitha-Kuladewa?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hirumitha-Kuladewa?label=Followers&style=social&color=purple" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Hirumitha-Kuladewa?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Hirumitha-Kuladewa?label=Stars&style=social&color=pink" alt="GitHub stars"/>
+  </a>
+</p>
 
-🌟 Android Development (Special interest)
-
-🎨 UI/UX Design
-
-🌐 Web Development
-
-I'm always eager to learn new technologies and take on exciting projects that help me grow as a developer. Feel free to check out my repositories and connect with me!  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-  
-  
-
-- 🌱 I’m currently learning Android Developing  
-  
-
-- ❓ Ask me about anything related to Android Developing  
-  
-
-- ⚡ Fun fact: I love experimenting with new design tools and frameworks to create user-friendly interfaces, and I often challenge myself to redesign popular apps to improve their usability and aesthetics.  
-
-
-</td><td valign="top" width="50%">
+<br/>
 
 <div align="center">
-<img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/main/images/header.gif" alt="header gif" width="800" />
+</div>
 
+<br/>
 
-</td></tr></table>  
+<div align="center">
 
-<br/>  
+🌱 **Exploring:** Android & iOS Development  
+💬 **Ask Me About:** Full Stack Development, Mobile Apps, or Design  
+⚡ **Fun Fact:** Call me the Joker  
 
+</div>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-</div>  
+---
 
-<br/>  
+<h2 align="center">🚀 Connect with Me 🚀</h2>
+<div align="center"> 
+  <a href="mailto:hirumithakuladewanew@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/hirumitha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hirumithaportfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
+  <a href="https://wa.me/+94725508919" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/x_hiru23/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/pmf76hxtcvadppLB/" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<h2 align="center">🛠️ Technology Stack 🛠️</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hirumitha-Kuladewa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirumitha-Kuladewa&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
+<div align="center">
+  <h3>👨‍💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,dart&theme=light" />
   
+  <h3>🎨 Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,html,css&theme=light" />
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Hirumitha-Kuladewa&&style=flat-square)  
+  <h3>📱 Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin&theme=light" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />
   
+  <h3>🤖 Artificial Intelligence</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=light" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  
+  <h3>💾 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=light" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  
+  <h3>☁️ DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,heroku&theme=light" />
+  
+  <h3>🎯 Testing</h3>
+  <img src="https://skillicons.dev/icons?i=selenium&theme=light" />
+  
+  <h3>🎨 Design Tools</h3>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=light" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dreamweaver/dreamweaver-plain.svg" width="40" height="40"/>
+</div>
 
-<br/>  
+---
 
-<div align="left"></div>
-<br />
+<h2 align="center">🐍 Contributions Activity 🐍</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hirumitha-Kuladewa&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Hirumitha-Kuladewa&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hirumitha-Kuladewa&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
+
+<h2 align="center">👨‍💻 Projects & Contributions</h2>
+<p align="center">
+  <i>Feel free to explore my repositories to see my work in mobile development, AI/ML projects, full-stack applications, and more!</i>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=100&section=footer"/>
+</div>
